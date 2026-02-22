@@ -4,6 +4,14 @@
 
 # IrukaDark
 
+> **⚠️ こちらは IrukaDark のプロトタイプとして開発した Preview 版です。**
+>
+> **正式リリース版はこちらをご利用ください → [https://irukadark.com/](https://irukadark.com/)**
+>
+> 正式リリース版では **Gemini API キーの登録も不要**で、**無料**でご利用いただけます。
+
+---
+
 Lightweight local AI chat for macOS. Explain or translate selected text, or chat normally. Area screenshot explain is available.
 
 ## Features
